@@ -102,7 +102,7 @@ body{
 
 .social-links .link:focus {
     outline: none;
-    box-shadow: 0 0 0 2px hslhsl(75, 94%, 57%);
+    box-shadow: 0 0 0 2px hsl(75, 94%, 57%);
 }
 
 .social-links .link:focus-visible {
